@@ -1,0 +1,17 @@
+.navbar_bigotes{
+	background-color: #121619;
+	}
+.navbar_bigotes img {
+	width: 5rem;
+	height: auto;
+}
+.navbar_text{
+	color: #323333;
+	margin-left: 10px;
+}
+.navbar_ml{
+	margin-left: 585px; 
+}
+.header_fondo{
+	background-image: url(assets/img/post-image.jpg);
+}
